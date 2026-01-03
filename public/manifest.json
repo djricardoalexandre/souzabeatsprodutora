@@ -1,0 +1,18 @@
+{
+  "name": "Souza Beats - Soluções em Áudio, Vídeo, Web e Marketing Digital",
+  "short_name": "Souza Beats",
+  "description": "A Evolução da sua Marca - Soluções profissionais em áudio, vídeo, desenvolvimento web e marketing digital",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00FFFF",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logo_souza_beats_nova.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
