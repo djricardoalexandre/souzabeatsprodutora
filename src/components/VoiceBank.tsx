@@ -17,7 +17,7 @@ export default function VoiceBank() {
             100 Vozes Exclusivas da Souza Beats
           </p>
           <p className="text-gray-300 mb-4 max-w-3xl mx-auto text-base italic">
-            Escolha a voz ideal para o seu projeto ou para o seu módulo de Locução Digital 24h.
+            Encontre a voz perfeita para o seu projeto e transforme sua ideia em uma produção de alto impacto.
           </p>
           <p className="text-gray-400 mb-8 max-w-2xl mx-auto text-sm">
             Qualidade profissional pronta para seus projetos
