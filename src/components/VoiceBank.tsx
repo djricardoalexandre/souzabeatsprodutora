@@ -20,7 +20,7 @@ export default function VoiceBank() {
             Encontre a voz perfeita para o seu projeto e transforme sua ideia em uma produção de alto impacto.
           </p>
           <p className="text-gray-400 mb-8 max-w-2xl mx-auto text-sm">
-            Qualidade profissional pronta para seus projetos
+            O banco de vozes da Souza Beats reúne talentos profissionais para produções publicitárias que valorizam a sua marca.
           </p>
 
           <a
