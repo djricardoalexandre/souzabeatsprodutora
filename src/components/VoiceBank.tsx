@@ -20,7 +20,7 @@ export default function VoiceBank() {
             Encontre a voz perfeita para o seu projeto e transforme sua ideia em uma produção de alto impacto.
           </p>
           <p className="text-gray-400 mb-8 max-w-2xl mx-auto text-sm">
-            O banco de vozes da Souza Beats reúne talentos profissionais para produções publicitárias que valorizam a sua marca.
+            O banco de vozes da Souza Beats reúne 100 vozes profissionais para a produção de comerciais e vinhetas que valorizam a sua marca.
           </p>
 
           <a
@@ -29,7 +29,7 @@ export default function VoiceBank() {
             rel="noopener noreferrer"
             className="inline-block px-8 py-4 bg-gradient-to-r from-amber-500 to-amber-600 hover:from-amber-600 hover:to-amber-700 text-[#0a0f1d] font-bold rounded-lg transition-all duration-300 hover:scale-105 hover:shadow-2xl shadow-lg shadow-amber-500/50"
           >
-            Acessar Banco de Vozes
+            Escolher uma Voz
           </a>
         </div>
       </div>
