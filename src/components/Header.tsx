@@ -3,7 +3,7 @@ export default function Header() {
     <header className="py-4 px-4 border-b border-amber-500/20">
       <div className="container mx-auto flex flex-col items-center">
         <img
-          src="/logo_souza_beats_nova.jpeg.png"
+          src="/logo_souza_beats_nova.png"
           alt="Souza Beats Logo"
           className="w-full max-w-[300px] h-auto"
         />
